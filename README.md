@@ -282,7 +282,7 @@ Example response:
 
 ```powershell
 git clone <repository-url>
-cd Retail-Demand-Forecasting-and-Inventory-Optimization-System
+cd Demand-Forecasting-and-Inventory-Optimization
 ```
 
 ### 2. Create and activate a virtual environment
