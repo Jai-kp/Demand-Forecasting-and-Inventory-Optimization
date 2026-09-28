@@ -1,4 +1,4 @@
-# Retail Demand Forecasting and Inventory Optimization System
+# Demand Forecasting and Inventory Optimization System
 
 A full-stack machine learning project that forecasts retail product demand and converts those forecasts into practical inventory planning recommendations. The system combines a reproducible training pipeline, time-aware model validation, SHAP explainability, Economic Order Quantity (EOQ) optimization, reorder point planning, a FastAPI inference service, and a Streamlit dashboard for interactive business use.
 
